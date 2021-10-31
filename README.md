@@ -5,10 +5,11 @@ The Program Takes Currency Value as Input and takes two functions. One function 
 # Time-Taken
 Design-3 hours, Coding-1 hour, Testing-and Fixing-1 hour. Total-Time=5 hours
 # Source code
-The main code can be found in NumberstoText.cpp https://github.com/afridhasuhaina/Thinkbridge-Assignment/blob/master/NumberstoText.cpp
+The main code can be found in [NumberstoText.cpp](https://github.com/afridhasuhaina/Thinkbridge-Assignment/blob/master/NumberstoText.cpp).
 # Output Screenshots
 The Output ScreenShots can be found in:
-[Thousand.png](https://github.com/afridhasuhaina/Thinkbridge-Assignment/blob/master/Thousand.png).
-[Lakh.png](https://github.com/afridhasuhaina/Thinkbridge-Assignment/blob/master/Lakh.png).
-[crore.png](https://github.com/afridhasuhaina/Thinkbridge-Assignment/blob/master/crore.png).
+[Thousand.png](https://github.com/afridhasuhaina/Thinkbridge-Assignment/blob/master/Thousand.png), 
+[Lakh.png](https://github.com/afridhasuhaina/Thinkbridge-Assignment/blob/master/Lakh.png), 
+[crore.png](https://github.com/afridhasuhaina/Thinkbridge-Assignment/blob/master/crore.png),
+
 [0 decimal part.png](https://github.com/afridhasuhaina/Thinkbridge-Assignment/blob/master/0%20decimal%20part.png).
