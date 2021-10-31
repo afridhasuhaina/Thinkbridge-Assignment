@@ -1,4 +1,4 @@
 # Converting Currency value to Text
 A Console Application Program written in C++ Language, which takes in Currency value(Min Value 00, Max Value 9, 99, 99,999.99) as Input and Converts it into words and print out as Text. For ex. If provided "123456.78", it should print out “Rs. One Lakh Twenty Three Thousand Four Hundred And Fifty Six 78/100 ONLY".
 # Solution Logic Explanation
-The Program Takes Currency Value as Input 
+The Program Takes Currency Value as Input and stores it in integer variable to get only the integer part and get passed to convert() function which converts given number into words. First it modulo the number by 100 to get the digits at ones and tens place and sends it along with an empty space to convertToDigit() function, which converts single or two digit numbers into words which first checks if the number is zero and returns empty space if it is and also checks
