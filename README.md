@@ -11,3 +11,4 @@ The Output ScreenShots can be found in:
 Thousand.png
 crore.png
 Lakh.png
+0 decimal part.png
