@@ -53,10 +53,6 @@ string convert(unsigned long long int n)
  
     // this handles digits at ten million and hundred million place
     res = convertToDigit((n / 10000000) % 100, "Crore, ") + res;
- 
-    // this handles digits at ten million and hundred million place
-    res = convertToDigit((n / 1000000000) % 100, "Billion, ") + res;
- 
     return res;
 }
  
