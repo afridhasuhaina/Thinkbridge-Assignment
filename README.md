@@ -11,5 +11,4 @@ The Output ScreenShots can be found in:
 [Thousand.png](https://github.com/afridhasuhaina/Thinkbridge-Assignment/blob/master/Thousand.png), 
 [Lakh.png](https://github.com/afridhasuhaina/Thinkbridge-Assignment/blob/master/Lakh.png), 
 [crore.png](https://github.com/afridhasuhaina/Thinkbridge-Assignment/blob/master/crore.png),
-
 [0 decimal part.png](https://github.com/afridhasuhaina/Thinkbridge-Assignment/blob/master/0%20decimal%20part.png).
