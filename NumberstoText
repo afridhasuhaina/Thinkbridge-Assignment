@@ -59,11 +59,17 @@ string convert(unsigned long long int n)
 // C++ program to convert numbers to words
 int main()
 {
-    float digit;
+    double digit;
     cin>>digit;
-    int x=digit;
-    int decimalnum=((digit-x)*100);
-    cout <<"Rs." <<convert(x) <<decimalnum<<"/100 ONLY" << endl;
+    double x;
+    double decimalnum=(modf(digit,&x));
+    int result;
+    result=(round(decimalnum*100));
+    cout <<"Rs." <<convert(x);
+    if(result>0){
+    cout<<result<<"/100 ";
+    }
+    cout<<"ONLY";
     
     return 0;
 }
